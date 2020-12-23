@@ -12,7 +12,7 @@ Language Used :
 Frameworks Used :
   Spring Boot 2.3.4
   
-Database Used:
+Database Used :
   NoSQL (MongoDB)
   
 Backend webservice Link (with Swagger):
